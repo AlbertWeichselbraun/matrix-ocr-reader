@@ -1,0 +1,2 @@
+matrix-nio~=0.20.1
+klembord~=0.3.0
